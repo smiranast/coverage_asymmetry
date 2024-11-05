@@ -1,0 +1,1 @@
+/path/to/run_asymmetry -S script_fixed_test.txt -I /media/volume2/all_obx_rnaseq_bam/ -O script_fixed_test_output
